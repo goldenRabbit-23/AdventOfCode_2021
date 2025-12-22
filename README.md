@@ -13,7 +13,7 @@ Each day lives in its own folder, with:
 | Day | Title | Summary |
 |-----|-------|---------|
 | 01  | Sonar Sweep | Count the number of increases, both for individual values and for sums computed using a three-value sliding window. |
-| 02  |       |         |
+| 02  | Dive!       | Calculate the submarine’s horizontal position and depth, including the aim. |
 | 03  |       |         |
 | 04  |       |         |
 | 05  |       |         |
