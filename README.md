@@ -12,7 +12,7 @@ Each day lives in its own folder, with:
 
 | Day | Title | Summary |
 |-----|-------|---------|
-| 01  |       |         |
+| 01  | Sonar Sweep | Count the number of increases, both for individual values and for sums computed using a three-value sliding window. |
 | 02  |       |         |
 | 03  |       |         |
 | 04  |       |         |
