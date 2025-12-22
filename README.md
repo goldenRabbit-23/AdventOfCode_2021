@@ -13,8 +13,8 @@ Each day lives in its own folder, with:
 | Day | Title | Summary |
 |-----|-------|---------|
 | 01  | Sonar Sweep | Count the number of increases, both for individual values and for sums computed using a three-value sliding window. |
-| 02  | Dive!       | Calculate the submarine’s horizontal position and depth, including the aim. |
-| 03  |       |         |
+| 02  | Dive! | Calculate the submarine’s horizontal position and depth, including the aim. |
+| 03  | Binary Diagnostic | Determine the most common and least common bit at each position across a set of binary numbers. |
 | 04  |       |         |
 | 05  |       |         |
 | 06  |       |         |
