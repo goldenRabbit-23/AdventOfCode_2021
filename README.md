@@ -16,7 +16,7 @@ Each day lives in its own folder, with:
 | 02  | Dive! | Calculate the submarine’s horizontal position and depth, including the aim. |
 | 03  | Binary Diagnostic | Determine the most common and least common bit at each position across a set of binary numbers. |
 | 04  | Giant Squid | Determine the bingo board that wins first and the one that wins last as numbers are called in a given order. |
-| 05  |       |         |
+| 05  | Hydrothermal Venture | Determine how many line segments overlap within a specific grid cell. |
 | 06  |       |         |
 | 07  |       |         |
 | 08  |       |         |
