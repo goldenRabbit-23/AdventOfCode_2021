@@ -18,7 +18,7 @@ Each day lives in its own folder, with:
 | 04  | Giant Squid | Determine the bingo board that wins first and the one that wins last as numbers are called in a given order. |
 | 05  | Hydrothermal Venture | Determine how many line segments overlap within a specific grid cell. |
 | 06  | Lanternfish | Calculate the total number of lanternfish after 80 days and 256 days of reproduction. |
-| 07  |       |         |
+| 07  | The Treachery of Whales | Find the alignment position that minimizes the total fuel required for all crabs to move to the same location. |
 | 08  |       |         |
 | 09  |       |         |
 | 10  |       |         |
