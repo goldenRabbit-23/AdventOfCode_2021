@@ -21,7 +21,7 @@ Each day lives in its own folder, with:
 | 07  | The Treachery of Whales | Find the alignment position that minimizes the total fuel required for all crabs to move to the same location. |
 | 08  | Seven Segment Search | Identify the correct wiring configuration for a seven-segment display. |
 | 09  | Smoke Basin | Identify the low points and basins in the given cave heightmap. |
-| 10  |       |         |
+| 10  | Syntax Scoring | Compute error scores for corrupted syntax and completion scores for incomplete syntax. |
 | 11  |       |         |
 | 12  |       |         |
 | 13  |       |         |
