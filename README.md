@@ -22,7 +22,7 @@ Each day lives in its own folder, with:
 | 08  | Seven Segment Search | Identify the correct wiring configuration for a seven-segment display. |
 | 09  | Smoke Basin | Identify the low points and basins in the given cave heightmap. |
 | 10  | Syntax Scoring | Compute error scores for corrupted syntax and completion scores for incomplete syntax. |
-| 11  |       |         |
+| 11  | Dumbo Octopus | Simulate the flashing octopuses, counting the total number of flashes and identifying the first step when all octopuses flash simultaneously. |
 | 12  |       |         |
 | 13  |       |         |
 | 14  |       |         |
