@@ -19,7 +19,7 @@ Each day lives in its own folder, with:
 | 05  | Hydrothermal Venture | Determine how many line segments overlap within a specific grid cell. |
 | 06  | Lanternfish | Calculate the total number of lanternfish after 80 days and 256 days of reproduction. |
 | 07  | The Treachery of Whales | Find the alignment position that minimizes the total fuel required for all crabs to move to the same location. |
-| 08  |       |         |
+| 08  | Seven Segment Search | Identify the correct wiring configuration for a seven-segment display. |
 | 09  |       |         |
 | 10  |       |         |
 | 11  |       |         |
