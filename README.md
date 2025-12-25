@@ -24,7 +24,7 @@ Each day lives in its own folder, with:
 | 10  | Syntax Scoring | Compute error scores for corrupted syntax and completion scores for incomplete syntax. |
 | 11  | Dumbo Octopus | Simulate the flashing octopuses, counting the total number of flashes and identifying the first step when all octopuses flash simultaneously. |
 | 12  | Passage Pathing | Count distinct paths from `start` to `end` where either no small cave is visited more than once, or exactly one small cave may be visited twice. |
-| 13  |       |         |
+| 13  | Transparent Origami | Fold the transparent paper along the given lines, tracking how dots overlap after each fold, then read the final dot pattern to reveal the 8-capital-letter code. |
 | 14  |       |         |
 | 15  |       |         |
 | 16  |       |         |
