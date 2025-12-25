@@ -23,7 +23,7 @@ Each day lives in its own folder, with:
 | 09  | Smoke Basin | Identify the low points and basins in the given cave heightmap. |
 | 10  | Syntax Scoring | Compute error scores for corrupted syntax and completion scores for incomplete syntax. |
 | 11  | Dumbo Octopus | Simulate the flashing octopuses, counting the total number of flashes and identifying the first step when all octopuses flash simultaneously. |
-| 12  |       |         |
+| 12  | Passage Pathing | Count distinct paths from `start` to `end` where either no small cave is visited more than once, or exactly one small cave may be visited twice. |
 | 13  |       |         |
 | 14  |       |         |
 | 15  |       |         |
