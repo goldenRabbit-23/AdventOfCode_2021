@@ -26,7 +26,7 @@ Each day lives in its own folder, with:
 | 12  | Passage Pathing | Count distinct paths from `start` to `end` where either no small cave is visited more than once, or exactly one small cave may be visited twice. |
 | 13  | Transparent Origami | Fold the transparent paper along the given lines, tracking how dots overlap after each fold, then read the final dot pattern to reveal the 8-capital-letter code. |
 | 14  | Extended Polymerization | Apply pair-insertion rules to the given polymer template, and identify the most and least common elements after 10 and 40 steps. |
-| 15  |       |         |
+| 15  | Chiton | Find the lowest-risk path across a chiton grid, on both the original map and its five-times expansion. |
 | 16  |       |         |
 | 17  |       |         |
 | 18  |       |         |
