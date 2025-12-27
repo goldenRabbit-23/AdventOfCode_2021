@@ -28,7 +28,7 @@ Each day lives in its own folder, with:
 | 14  | Extended Polymerization | Apply pair-insertion rules to the given polymer template, and identify the most and least common elements after 10 and 40 steps. |
 | 15  | Chiton | Find the lowest-risk path across a chiton grid, on both the original map and its five-times expansion. |
 | 16  | Packet Decoder | Decode the hexadecimal packet using the given rules, then report the sum of all packet version numbers and the final value the packet evaluates to. |
-| 17  |       |         |
+| 17  | Trick Shot | Determine the highest `y` position the probe launcher can reach while hitting the target, and the distinct initial velocity values that allow it to hit the target. |
 | 18  |       |         |
 | 19  |       |         |
 | 20  |       |         |
