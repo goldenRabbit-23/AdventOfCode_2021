@@ -29,7 +29,7 @@ Each day lives in its own folder, with:
 | 15  | Chiton | Find the lowest-risk path across a chiton grid, on both the original map and its five-times expansion. |
 | 16  | Packet Decoder | Decode the hexadecimal packet using the given rules, then report the sum of all packet version numbers and the final value the packet evaluates to. |
 | 17  | Trick Shot | Determine the highest `y` position the probe launcher can reach while hitting the target, and the distinct initial velocity values that allow it to hit the target. |
-| 18  |       |         |
+| 18  | Snailfish | Compute the magnitude of the fully reduced sum of all snailfish numbers, and find the maximum magnitude achievable by adding any two distinct snailfish numbers. |
 | 19  |       |         |
 | 20  |       |         |
 | 21  |       |         |
