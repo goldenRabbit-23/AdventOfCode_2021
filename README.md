@@ -30,7 +30,7 @@ Each day lives in its own folder, with:
 | 16  | Packet Decoder | Decode the hexadecimal packet using the given rules, then report the sum of all packet version numbers and the final value the packet evaluates to. |
 | 17  | Trick Shot | Determine the highest `y` position the probe launcher can reach while hitting the target, and the distinct initial velocity values that allow it to hit the target. |
 | 18  | Snailfish | Compute the magnitude of the fully reduced sum of all snailfish numbers, and find the maximum magnitude achievable by adding any two distinct snailfish numbers. |
-| 19  |       |         |
+| 19  | Beacon Scanner | Align multiple 3D scanners by finding overlapping beacon sets under unknown rotations and translations to build a single unified map. |
 | 20  |       |         |
 | 21  |       |         |
 | 22  |       |         |
