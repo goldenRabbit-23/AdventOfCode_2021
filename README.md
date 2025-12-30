@@ -31,7 +31,7 @@ Each day lives in its own folder, with:
 | 17  | Trick Shot | Determine the highest `y` position the probe launcher can reach while hitting the target, and the distinct initial velocity values that allow it to hit the target. |
 | 18  | Snailfish | Compute the magnitude of the fully reduced sum of all snailfish numbers, and find the maximum magnitude achievable by adding any two distinct snailfish numbers. |
 | 19  | Beacon Scanner | Align multiple 3D scanners by finding overlapping beacon sets under unknown rotations and translations to build a single unified map. |
-| 20  |       |         |
+| 20  | Trench Map | Process the image using the given enhancement algorithm, and beware of background inversion. |
 | 21  |       |         |
 | 22  |       |         |
 | 23  |       |         |
