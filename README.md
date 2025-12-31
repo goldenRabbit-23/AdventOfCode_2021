@@ -33,7 +33,7 @@ Each day lives in its own folder, with:
 | 19  | Beacon Scanner | Align multiple 3D scanners by finding overlapping beacon sets under unknown rotations and translations to build a single unified map. |
 | 20  | Trench Map | Process the image using the given enhancement algorithm, and beware of background inversion. |
 | 21  | Dirac Dice | Simulate the game played with a deterministic die, and simulate the entire universe of possibilities when rolling a three-sided quantum die. |
-| 22  |       |         |
+| 22  | Reactor Reboot | Count the total number of cubes that are on after following a series of reboot steps. |
 | 23  |       |         |
 | 24  |       |         |
 | 25  |       |         |
