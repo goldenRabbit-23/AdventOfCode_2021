@@ -35,5 +35,5 @@ Each day lives in its own folder, with:
 | 21  | Dirac Dice | Simulate the game played with a deterministic die, and simulate the entire universe of possibilities when rolling a three-sided quantum die. |
 | 22  | Reactor Reboot | Count the total number of cubes that are on after following a series of reboot steps. |
 | 23  | Amphipod | Organize the amphipods into their correct rooms while minimizing the total energy required. |
-| 24  |       |         |
+| 24  | Arithmetic Logic Unit | Analyze the given ALU program and determine the largest and smallest model numbers accepted by MONAD. |
 | 25  |       |         |
